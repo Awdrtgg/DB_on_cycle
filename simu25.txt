@@ -1,0 +1,160 @@
+model: db
+N = 25, r = 0.9, d = 0, time cost = 15.8339998722 / repeated 10000 times
+success = 0.0183
+step_con = 2312, step_uncon = 371
+
+model: db
+N = 25, r = 0.9, d = 1, time cost = 16.734000206 / repeated 10000 times
+success = 0.0194
+step_con = 2285, step_uncon = 390
+
+model: db
+N = 25, r = 0.9, d = 2, time cost = 14.1529998779 / repeated 10000 times
+success = 0.0186
+step_con = 2315, step_uncon = 364
+
+model: db
+N = 25, r = 0.9, d = 11, time cost = 13.8619999886 / repeated 10000 times
+success = 0.0177
+step_con = 2220, step_uncon = 359
+
+model: db
+N = 25, r = 1.0, d = 0, time cost = 20.9579999447 / repeated 10000 times
+success = 0.0738
+step_con = 2552, step_uncon = 559
+
+model: db
+N = 25, r = 1.0, d = 1, time cost = 21.6540000439 / repeated 10000 times
+success = 0.0811
+step_con = 2535, step_uncon = 552
+
+model: db
+N = 25, r = 1.0, d = 2, time cost = 22.9830000401 / repeated 10000 times
+success = 0.0802
+step_con = 2542, step_uncon = 570
+
+model: db
+N = 25, r = 1.0, d = 11, time cost = 19.8119997978 / repeated 10000 times
+success = 0.0859
+step_con = 2495, step_uncon = 538
+
+model: db
+N = 25, r = 1.5, d = 0, time cost = 30.1900000572 / repeated 10000 times
+success = 0.5222
+step_con = 1234, step_uncon = 700
+
+model: db
+N = 25, r = 1.5, d = 1, time cost = 30.132999897 / repeated 10000 times
+success = 0.4867
+step_con = 1234, step_uncon = 648
+
+model: db
+N = 25, r = 1.5, d = 2, time cost = 35.3599998951 / repeated 10000 times
+success = 0.4889
+step_con = 1220, step_uncon = 645
+
+model: db
+N = 25, r = 1.5, d = 11, time cost = 31.1749999523 / repeated 10000 times
+success = 0.4911
+step_con = 1149, step_uncon = 611
+
+model: db
+N = 25, r = 2.0, d = 0, time cost = 26.1870000362 / repeated 10000 times
+success = 0.6954
+step_con = 817, step_uncon = 588
+
+model: db
+N = 25, r = 2.0, d = 1, time cost = 21.4879999161 / repeated 10000 times
+success = 0.6274
+step_con = 811, step_uncon = 527
+
+model: db
+N = 25, r = 2.0, d = 2, time cost = 22.5920000076 / repeated 10000 times
+success = 0.6361
+step_con = 798, step_uncon = 527
+
+model: db
+N = 25, r = 2.0, d = 11, time cost = 21.3519999981 / repeated 10000 times
+success = 0.6357
+step_con = 740, step_uncon = 488
+
+model: db
+N = 25, r = 3.0, d = 0, time cost = 19.6600000858 / repeated 10000 times
+success = 0.8272
+step_con = 572, step_uncon = 481
+
+model: db
+N = 25, r = 3.0, d = 1, time cost = 18.4200000763 / repeated 10000 times
+success = 0.7356
+step_con = 564, step_uncon = 423
+
+model: db
+N = 25, r = 3.0, d = 2, time cost = 17.6619999409 / repeated 10000 times
+success = 0.7549
+step_con = 556, step_uncon = 427
+
+model: db
+N = 25, r = 3.0, d = 11, time cost = 15.6940000057 / repeated 10000 times
+success = 0.7395
+step_con = 499, step_uncon = 377
+
+model: db
+N = 25, r = 5.0, d = 0, time cost = 17.864000082 / repeated 10000 times
+success = 0.9138
+step_con = 440, step_uncon = 405
+
+model: db
+N = 25, r = 5.0, d = 1, time cost = 16.2590000629 / repeated 10000 times
+success = 0.8024
+step_con = 432, step_uncon = 351
+
+model: db
+N = 25, r = 5.0, d = 2, time cost = 15.2380001545 / repeated 10000 times
+success = 0.8122
+step_con = 424, step_uncon = 348
+
+model: db
+N = 25, r = 5.0, d = 11, time cost = 13.501999855 / repeated 10000 times
+success = 0.813
+step_con = 373, step_uncon = 307
+
+model: db
+N = 25, r = 8.0, d = 0, time cost = 14.5050001144 / repeated 10000 times
+success = 0.9498
+step_con = 379, step_uncon = 362
+
+model: db
+N = 25, r = 8.0, d = 1, time cost = 12.7620000839 / repeated 10000 times
+success = 0.8259
+step_con = 374, step_uncon = 312
+
+model: db
+N = 25, r = 8.0, d = 2, time cost = 12.5360000134 / repeated 10000 times
+success = 0.8461
+step_con = 368, step_uncon = 314
+
+model: db
+N = 25, r = 8.0, d = 11, time cost = 11.5399999619 / repeated 10000 times
+success = 0.8446
+step_con = 316, step_uncon = 269
+
+model: db
+N = 25, r = 10.0, d = 0, time cost = 14.8029999733 / repeated 10000 times
+success = 0.9639
+step_con = 361, step_uncon = 349
+
+model: db
+N = 25, r = 10.0, d = 1, time cost = 12.0910000801 / repeated 10000 times
+success = 0.8397
+step_con = 358, step_uncon = 303
+
+model: db
+N = 25, r = 10.0, d = 2, time cost = 12.4639999866 / repeated 10000 times
+success = 0.8478
+step_con = 350, step_uncon = 299
+
+model: db
+N = 25, r = 10.0, d = 11, time cost = 11.0020000935 / repeated 10000 times
+success = 0.8579
+step_con = 298, step_uncon = 258
+
