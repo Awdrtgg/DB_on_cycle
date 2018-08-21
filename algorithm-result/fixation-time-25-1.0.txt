@@ -1,0 +1,14 @@
+The fixation times: 
+[nan]
+[[nan]
+ [nan]
+ [nan]
+ [nan]
+ [nan]
+ [nan]
+ [nan]
+ [nan]
+ [nan]
+ [nan]
+ [nan]]
+
