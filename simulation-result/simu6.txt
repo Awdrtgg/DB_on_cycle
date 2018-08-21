@@ -1,0 +1,180 @@
+model: db
+N = 6, r = 0.1, d = 0, time cost = 4.82800006866 / repeated 100000 times
+success = 0.00044
+step_con = 13.977273, step_uncon = 10.308790
+
+model: db
+N = 6, r = 0.1, d = 1, time cost = 5.42199993134 / repeated 100000 times
+success = 0.00224
+step_con = 10.080357, step_uncon = 11.299470
+
+model: db
+N = 6, r = 0.1, d = 2, time cost = 5.16400003433 / repeated 100000 times
+success = 0.00282
+step_con = 9.677305, step_uncon = 10.313240
+
+model: db
+N = 6, r = 0.2, d = 0, time cost = 5.9319999218 / repeated 100000 times
+success = 0.00346
+step_con = 17.037572, step_uncon = 11.908450
+
+model: db
+N = 6, r = 0.2, d = 1, time cost = 6.6740000248 / repeated 100000 times
+success = 0.0099
+step_con = 13.565657, step_uncon = 12.688200
+
+model: db
+N = 6, r = 0.2, d = 2, time cost = 5.95500016212 / repeated 100000 times
+success = 0.01137
+step_con = 12.003518, step_uncon = 11.712480
+
+model: db
+N = 6, r = 0.3, d = 0, time cost = 7.14399981499 / repeated 100000 times
+success = 0.01318
+step_con = 19.974962, step_uncon = 13.716720
+
+model: db
+N = 6, r = 0.3, d = 1, time cost = 7.21900010109 / repeated 100000 times
+success = 0.02584
+step_con = 16.087074, step_uncon = 14.198160
+
+model: db
+N = 6, r = 0.3, d = 2, time cost = 6.76699995995 / repeated 100000 times
+success = 0.02702
+step_con = 15.092154, step_uncon = 13.306940
+
+model: db
+N = 6, r = 0.5, d = 0, time cost = 10.6579999924 / repeated 100000 times
+success = 0.0637
+step_con = 26.308006, step_uncon = 17.587670
+
+model: db
+N = 6, r = 0.5, d = 1, time cost = 8.68899989128 / repeated 100000 times
+success = 0.08523
+step_con = 22.291212, step_uncon = 17.324350
+
+model: db
+N = 6, r = 0.5, d = 2, time cost = 9.70399999619 / repeated 100000 times
+success = 0.08717
+step_con = 20.853160, step_uncon = 16.525710
+
+model: db
+N = 6, r = 0.9, d = 0, time cost = 11.9600000381 / repeated 100000 times
+success = 0.27575
+step_con = 31.827525, step_uncon = 23.392340
+
+model: db
+N = 6, r = 0.9, d = 1, time cost = 10.4690001011 / repeated 100000 times
+success = 0.28075
+step_con = 28.831665, step_uncon = 21.304030
+
+model: db
+N = 6, r = 0.9, d = 2, time cost = 10.6979999542 / repeated 100000 times
+success = 0.28282
+step_con = 27.710876, step_uncon = 20.681050
+
+model: db
+N = 6, r = 1.0, d = 0, time cost = 12.4660000801 / repeated 100000 times
+success = 0.33547
+step_con = 32.018839, step_uncon = 24.192850
+
+model: db
+N = 6, r = 1.0, d = 1, time cost = 10.8489999771 / repeated 100000 times
+success = 0.33362
+step_con = 29.175079, step_uncon = 21.648240
+
+model: db
+N = 6, r = 1.0, d = 2, time cost = 10.4399998188 / repeated 100000 times
+success = 0.33214
+step_con = 28.522310, step_uncon = 21.149590
+
+model: db
+N = 6, r = 1.5, d = 0, time cost = 12.2379999161 / repeated 100000 times
+success = 0.57213
+step_con = 29.968993, step_uncon = 24.442200
+
+model: db
+N = 6, r = 1.5, d = 1, time cost = 10.6790001392 / repeated 100000 times
+success = 0.53144
+step_con = 28.178402, step_uncon = 21.547150
+
+model: db
+N = 6, r = 1.5, d = 2, time cost = 10.6340000629 / repeated 100000 times
+success = 0.53011
+step_con = 27.386033, step_uncon = 21.071930
+
+model: db
+N = 6, r = 2.0, d = 0, time cost = 11.4419999123 / repeated 100000 times
+success = 0.71109
+step_con = 27.050655, step_uncon = 23.301440
+
+model: db
+N = 6, r = 2.0, d = 1, time cost = 10.4010000229 / repeated 100000 times
+success = 0.63565
+step_con = 25.609801, step_uncon = 20.182080
+
+model: db
+N = 6, r = 2.0, d = 2, time cost = 10.4909999371 / repeated 100000 times
+success = 0.64296
+step_con = 25.028415, step_uncon = 19.893430
+
+model: db
+N = 6, r = 3.0, d = 0, time cost = 10.7860000134 / repeated 100000 times
+success = 0.83363
+step_con = 23.130178, step_uncon = 21.000520
+
+model: db
+N = 6, r = 3.0, d = 1, time cost = 9.27600002289 / repeated 100000 times
+success = 0.73242
+step_con = 22.070410, step_uncon = 18.125710
+
+model: db
+N = 6, r = 3.0, d = 2, time cost = 9.06299996376 / repeated 100000 times
+success = 0.7475
+step_con = 21.554983, step_uncon = 17.964810
+
+model: db
+N = 6, r = 5.0, d = 0, time cost = 9.40000009537 / repeated 100000 times
+success = 0.91399
+step_con = 19.710938, step_uncon = 18.682970
+
+model: db
+N = 6, r = 5.0, d = 1, time cost = 10.9519999027 / repeated 100000 times
+success = 0.79407
+step_con = 19.047301, step_uncon = 16.188730
+
+model: db
+N = 6, r = 5.0, d = 2, time cost = 10.0320000648 / repeated 100000 times
+success = 0.81125
+step_con = 18.652438, step_uncon = 16.113440
+
+model: db
+N = 6, r = 8.0, d = 0, time cost = 11.146999836 / repeated 100000 times
+success = 0.95122
+step_con = 17.814260, step_uncon = 17.266720
+
+model: db
+N = 6, r = 8.0, d = 1, time cost = 9.51200008392 / repeated 100000 times
+success = 0.82685
+step_con = 17.411078, step_uncon = 15.132190
+
+model: db
+N = 6, r = 8.0, d = 2, time cost = 9.4509999752 / repeated 100000 times
+success = 0.8431
+step_con = 16.940197, step_uncon = 14.944550
+
+model: db
+N = 6, r = 10.0, d = 0, time cost = 10.6889998913 / repeated 100000 times
+success = 0.96229
+step_con = 17.232404, step_uncon = 16.818880
+
+model: db
+N = 6, r = 10.0, d = 1, time cost = 9.37199997902 / repeated 100000 times
+success = 0.83442
+step_con = 16.946454, step_uncon = 14.803650
+
+model: db
+N = 6, r = 10.0, d = 2, time cost = 8.45499992371 / repeated 100000 times
+success = 0.8553
+step_con = 16.450134, step_uncon = 14.640030
+
