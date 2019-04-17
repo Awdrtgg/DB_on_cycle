@@ -11,7 +11,7 @@ if __name__ == '__main__':
         for r in [0.1, 0.3, 0.5, 0.7, 0.9, 1.0, 1.5, 2.0, 3.0, 5.0, 8.0, 10.0]:
             payoff = payoff = {'A:A': r, 'A:B': r, 'B:A':1, 'B:B':1}
 
-            for i in [1, 2]:
+            for i in [1, 2, 3]:
                 time_cost, success, step_con, step_uncon = 0, [], [], []
                 for it in range(num_sample):
                     game = CirclePlayers(payoff, N, beta, [0, i])

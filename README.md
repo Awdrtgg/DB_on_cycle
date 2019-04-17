@@ -1,6 +1,6 @@
 # DB_on_cycle
 
-This repo contains the source code that realizes the simulation and the algorithm proposed in the paper (Not yet complished).
+This repo contains the source code that realizes the simulation and the algorithm proposed in the paper "Clustering mutants favor and disfavor fixation" by Yunming Xiao and Bin Wu (not yet published). 
 
 ## fp_and_derivative.py
 The realization of the proposed algorithm to calculate the fixation probabilities and their derivatives. Note that the sparse matrix method is not adopted here. You may ask for the sparse matrix version by emailing at the authors.

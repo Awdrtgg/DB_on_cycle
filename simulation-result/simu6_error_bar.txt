@@ -15,6 +15,14 @@ unconditional step: mean=11.237004, max=11.316720, min=11.174010, diff=0.142710,
 
 
 model: db
+N = 6, r = 0.1, d = 2, time cost = 475.125871181 / repeated 100000 times
+100 samples are taken
+success: mean=0.002803, max=0.003250, min=0.002410, diff=0.000840, var=0.000000
+conditional step: mean=9.869543, max=10.481848, min=9.202899, diff=1.278950, var=0.091696
+unconditional step: mean=10.309646, max=10.349870, min=10.253770, diff=0.096100, var=0.000483
+
+
+model: db
 N = 6, r = 0.3, d = 0, time cost = 529.785979986 / repeated 100000 times
 100 samples are taken
 success: mean=0.013285, max=0.013940, min=0.012380, diff=0.001560, var=0.000000
@@ -28,6 +36,14 @@ N = 6, r = 0.3, d = 1, time cost = 590.638939142 / repeated 100000 times
 success: mean=0.025386, max=0.026900, min=0.023830, diff=0.003070, var=0.000000
 conditional step: mean=16.286556, max=17.055321, min=15.797503, diff=1.257818, var=0.057511
 unconditional step: mean=14.191500, max=14.270580, min=14.095460, diff=0.175120, var=0.001448
+
+
+model: db
+N = 6, r = 0.3, d = 2, time cost = 519.861628294 / repeated 100000 times
+100 samples are taken
+success: mean=0.027489, max=0.028690, min=0.025990, diff=0.002700, var=0.000000
+conditional step: mean=14.808145, max=15.325923, min=14.451399, diff=0.874524, var=0.035626
+unconditional step: mean=13.304641, max=13.438160, min=13.223180, diff=0.214980, var=0.001373
 
 
 model: db
@@ -47,6 +63,14 @@ unconditional step: mean=17.329441, max=17.460740, min=17.213960, diff=0.246780,
 
 
 model: db
+N = 6, r = 0.5, d = 2, time cost = 566.683532 / repeated 100000 times
+100 samples are taken
+success: mean=0.085795, max=0.087920, min=0.084210, diff=0.003710, var=0.000001
+conditional step: mean=20.751011, max=21.226221, min=20.374827, diff=0.851394, var=0.035925
+unconditional step: mean=16.451562, max=16.539890, min=16.337900, diff=0.201990, var=0.001987
+
+
+model: db
 N = 6, r = 0.7, d = 0, time cost = 809.267345428 / repeated 100000 times
 100 samples are taken
 success: mean=0.156689, max=0.159810, min=0.154530, diff=0.005280, var=0.000001
@@ -60,6 +84,14 @@ N = 6, r = 0.7, d = 1, time cost = 765.776948929 / repeated 100000 times
 success: mean=0.176052, max=0.178990, min=0.173040, diff=0.005950, var=0.000001
 conditional step: mean=26.702321, max=27.023006, min=26.314603, diff=0.708403, var=0.022616
 unconditional step: mean=19.896538, max=20.029900, min=19.755170, diff=0.274730, var=0.004363
+
+
+model: db
+N = 6, r = 0.7, d = 2, time cost = 653.410639286 / repeated 100000 times
+100 samples are taken
+success: mean=0.176757, max=0.179520, min=0.174270, diff=0.005250, var=0.000001
+conditional step: mean=25.392650, max=25.770571, min=25.072879, diff=0.697692, var=0.022337
+unconditional step: mean=19.063515, max=19.251170, min=18.843700, diff=0.407470, var=0.004019
 
 
 model: db
@@ -79,6 +111,14 @@ unconditional step: mean=21.429556, max=21.585610, min=21.243700, diff=0.341910,
 
 
 model: db
+N = 6, r = 0.9, d = 2, time cost = 679.062690735 / repeated 100000 times
+100 samples are taken
+success: mean=0.281954, max=0.286400, min=0.277470, diff=0.008930, var=0.000002
+conditional step: mean=27.893671, max=28.290648, min=27.621964, diff=0.668684, var=0.016799
+unconditional step: mean=20.684237, max=20.816010, min=20.510550, diff=0.305460, var=0.004299
+
+
+model: db
 N = 6, r = 1.0, d = 0, time cost = 914.325934172 / repeated 100000 times
 100 samples are taken
 success: mean=0.333110, max=0.336690, min=0.328810, diff=0.007880, var=0.000003
@@ -92,6 +132,14 @@ N = 6, r = 1.0, d = 1, time cost = 830.119704723 / repeated 100000 times
 success: mean=0.333481, max=0.336980, min=0.329570, diff=0.007410, var=0.000002
 conditional step: mean=29.465029, max=29.756001, min=29.169977, diff=0.586024, var=0.014684
 unconditional step: mean=21.812184, max=21.989810, min=21.635920, diff=0.353890, var=0.004538
+
+
+model: db
+N = 6, r = 1.0, d = 2, time cost = 694.903620005 / repeated 100000 times
+100 samples are taken
+success: mean=0.333361, max=0.337970, min=0.329390, diff=0.008580, var=0.000003
+conditional step: mean=28.416657, max=28.831435, min=28.100748, diff=0.730687, var=0.018058
+unconditional step: mean=21.111999, max=21.262630, min=20.943400, diff=0.319230, var=0.005587
 
 
 model: db
@@ -111,6 +159,14 @@ unconditional step: mean=21.561039, max=21.714930, min=21.449370, diff=0.265560,
 
 
 model: db
+N = 6, r = 1.5, d = 2, time cost = 691.324332237 / repeated 100000 times
+100 samples are taken
+success: mean=0.532968, max=0.536930, min=0.529630, diff=0.007300, var=0.000003
+conditional step: mean=27.458126, max=27.662500, min=27.276843, diff=0.385657, var=0.007414
+unconditional step: mean=21.093787, max=21.305850, min=20.947510, diff=0.358340, var=0.003321
+
+
+model: db
 N = 6, r = 2.0, d = 0, time cost = 910.823727608 / repeated 100000 times
 100 samples are taken
 success: mean=0.708745, max=0.712540, min=0.704790, diff=0.007750, var=0.000002
@@ -124,6 +180,14 @@ N = 6, r = 2.0, d = 1, time cost = 738.72919488 / repeated 100000 times
 success: mean=0.638989, max=0.643580, min=0.634440, diff=0.009140, var=0.000002
 conditional step: mean=25.684043, max=25.895717, min=25.523215, diff=0.372502, var=0.005642
 unconditional step: mean=20.261495, max=20.446860, min=20.137900, diff=0.308960, var=0.003370
+
+
+model: db
+N = 6, r = 2.0, d = 2, time cost = 654.227722883 / repeated 100000 times
+100 samples are taken
+success: mean=0.644177, max=0.648360, min=0.641660, diff=0.006700, var=0.000002
+conditional step: mean=25.047923, max=25.228426, min=24.883945, diff=0.344481, var=0.004286
+unconditional step: mean=19.924654, max=20.035180, min=19.806320, diff=0.228860, var=0.002650
 
 
 model: db
@@ -143,6 +207,14 @@ unconditional step: mean=18.204381, max=18.304210, min=18.104760, diff=0.199450,
 
 
 model: db
+N = 6, r = 3.0, d = 2, time cost = 617.697851896 / repeated 100000 times
+100 samples are taken
+success: mean=0.745369, max=0.748160, min=0.741990, diff=0.006170, var=0.000002
+conditional step: mean=21.599853, max=21.752318, min=21.459959, diff=0.292359, var=0.002568
+unconditional step: mean=17.971444, max=18.108260, min=17.849920, diff=0.258340, var=0.001858
+
+
+model: db
 N = 6, r = 5.0, d = 0, time cost = 643.850860834 / repeated 100000 times
 100 samples are taken
 success: mean=0.914093, max=0.916420, min=0.911880, diff=0.004540, var=0.000001
@@ -156,6 +228,14 @@ N = 6, r = 5.0, d = 1, time cost = 663.440041304 / repeated 100000 times
 success: mean=0.797097, max=0.799710, min=0.792490, diff=0.007220, var=0.000002
 conditional step: mean=19.086802, max=19.181279, min=18.988620, diff=0.192660, var=0.001351
 unconditional step: mean=16.253097, max=16.346430, min=16.179080, diff=0.167350, var=0.001266
+
+
+model: db
+N = 6, r = 5.0, d = 2, time cost = 539.222517014 / repeated 100000 times
+100 samples are taken
+success: mean=0.812108, max=0.815550, min=0.809160, diff=0.006390, var=0.000001
+conditional step: mean=18.597322, max=18.678327, min=18.471964, diff=0.206363, var=0.001469
+unconditional step: mean=16.076576, max=16.179820, min=15.983350, diff=0.196470, var=0.001258
 
 
 model: db
@@ -175,6 +255,14 @@ unconditional step: mean=15.128231, max=15.216620, min=15.034390, diff=0.182230,
 
 
 model: db
+N = 6, r = 8.0, d = 2, time cost = 692.337438822 / repeated 100000 times
+100 samples are taken
+success: mean=0.844312, max=0.847070, min=0.841280, diff=0.005790, var=0.000001
+conditional step: mean=16.958333, max=17.019898, min=16.878725, diff=0.141174, var=0.000913
+unconditional step: mean=14.976817, max=15.030820, min=14.909820, diff=0.121000, var=0.000679
+
+
+model: db
 N = 6, r = 10.0, d = 0, time cost = 591.817777634 / repeated 100000 times
 100 samples are taken
 success: mean=0.962108, max=0.963300, min=0.960780, diff=0.002520, var=0.000000
@@ -189,4 +277,11 @@ success: mean=0.835149, max=0.838470, min=0.832780, diff=0.005690, var=0.000001
 conditional step: mean=16.878946, max=16.952425, min=16.812928, diff=0.139497, var=0.000835
 unconditional step: mean=14.755589, max=14.822560, min=14.670110, diff=0.152450, var=0.000818
 
+
+model: db
+N = 6, r = 10.0, d = 2, time cost = 547.315717936 / repeated 100000 times
+100 samples are taken
+success: mean=0.853981, max=0.857180, min=0.851020, diff=0.006160, var=0.000001
+conditional step: mean=16.437324, max=16.515498, min=16.360640, diff=0.154858, var=0.001040
+unconditional step: mean=14.615336, max=14.688100, min=14.518910, diff=0.169190, var=0.000918
 
