@@ -247,7 +247,7 @@ def fp_and_derivative(n, r):
     Result = R01 * P
     print(P[1])
     print(Result[0:int((n-2)/2)])
-    w.write('The fixation probabilities: \n')
+    w.write('The fixation probabilities at r=1: \n')
     w.write(str(P[1]))
     w.write('\n')
     w.write(str(Result[0:int((n-2)/2)]))
@@ -257,17 +257,17 @@ def fp_and_derivative(n, r):
     Result1 = R11 * P + R12 * P1
     print(P1[1])
     print(Result1[0:int((n-2)/2)])
-    w.write('The first-order derivatives of fixation probabilities: \n')
+    w.write('The first-order derivatives of fixation probabilities at r=1: \n')
     w.write(str(P1[1]))
     w.write('\n')
     w.write(str(Result1[0:int((n-2)/2)]))
     w.write('\n\n')
     print()
 
-    Result2 = (2*R21*P + R22*P + 2*R23*P1 + R24*P2)/2
-    print(P2[1]/2)
+    Result2 = 2*R21*P + R22*P + 2*R23*P1 + R24*P2
+    print(P2[1])
     print(Result2[0:int((n-2)/2)])
-    w.write('The second-order derivatives of fixation probabilities: \n')
+    w.write('The second-order derivatives of fixation probabilities at r=1: \n')
     w.write(str(P2[1]))
     w.write('\n')
     w.write(str(Result2[0:int((n-2)/2)]))

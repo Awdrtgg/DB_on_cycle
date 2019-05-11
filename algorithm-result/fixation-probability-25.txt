@@ -1,4 +1,4 @@
-The fixation probabilities: 
+The fixation probabilities at r=1: 
 [[ 0.08]]
 [[ 0.08]
  [ 0.08]
@@ -12,7 +12,7 @@ The fixation probabilities:
  [ 0.08]
  [ 0.08]]
 
-The first-order derivatives of fixation probabilities: 
+The first-order derivatives of fixation probabilities at r=1: 
 [[ 0.9]]
 [[ 0.88]
  [ 0.88]
@@ -26,16 +26,16 @@ The first-order derivatives of fixation probabilities:
  [ 0.88]
  [ 0.88]]
 
-The second-order derivatives of fixation probabilities: 
+The second-order derivatives of fixation probabilities at r=1: 
 [[ 5.1368]]
-[[ 2.37115301]
- [ 2.37491806]
- [ 2.37639227]
- [ 2.37709951]
- [ 2.37748834]
- [ 2.37772221]
- [ 2.37787101]
- [ 2.37796822]
- [ 2.37803116]
- [ 2.37806915]
- [ 2.37808708]]
+[[ 4.74230602]
+ [ 4.74983612]
+ [ 4.75278453]
+ [ 4.75419902]
+ [ 4.75497668]
+ [ 4.75544442]
+ [ 4.75574202]
+ [ 4.75593643]
+ [ 4.75606232]
+ [ 4.75613829]
+ [ 4.75617415]]
