@@ -1,6 +1,6 @@
 # DB_on_cycle
 
-This repo contains the source code that realizes the simulation and the algorithm proposed in the paper "Close spatial arrangement of mutants favors and disfavors fixation" by Yunming Xiao and Bin Wu. The paper will appear on PLOS Computational Biology.
+This repo contains the source code that realizes the simulation and the algorithm proposed in the paper: Xiao Y, Wu B (2019) Close spatial arrangement of mutants favors and disfavors fixation. PLoS Comput Biol 15(9): e1007212. https://doi.org/10.1371/journal.pcbi.1007212
 
 #### fp_and_derivative.py
 The realization of the proposed algorithm to calculate the fixation probabilities and their derivatives. Note that the sparse matrix method is not adopted here. You may ask for the sparse matrix version by emailing at the authors.
